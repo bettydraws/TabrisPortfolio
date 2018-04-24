@@ -1,1 +1,12 @@
-html
+const {Button, ImageView, ui} = require('tabris');
+
+const IMAGE_PATH = 'https://bettydraws/TabrisPortfolio/images/';
+// Create a push button that counts up on selection
+
+let count = 0;
+
+new Button({
+  left: 10, top: 10,
+  text: 'Button'
+}).on('select', () => {src: "images/cat.png"})
+  .appendTo(ui.contentView);
