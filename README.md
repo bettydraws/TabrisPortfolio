@@ -1,2 +1,2 @@
 # TabrisPortfolio
-<img class="img-fluid" src="img/TabrisPortfolio.jpg" alt="">
+<img class="img-fluid" src="images/TabrisPortfolio.jpg" alt="">
